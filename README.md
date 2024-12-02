@@ -3,4 +3,4 @@ I like making people smile. I sometimes contribute code to small projects or fri
 ## What I do
 I know mainly Java and have experience making Spigot Plugins. I am currently trying my best to dabble into Unity and Game Development.
 
-All my other presences are on my Website, https://gunnablescum.de.
+All my other presences are on my Website, https://gunnablescum.live.
