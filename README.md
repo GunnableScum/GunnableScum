@@ -19,3 +19,10 @@ I am currently exploring Unity and Game Development.
 ## IDE Preference?
 For Java, [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 For C#, [JetBrains Rider](https://www.jetbrains.com/rider/).
+
+## My Octocat
+
+I found this little octocat generator [over here](https://myoctocat.com/build-your-octocat/) and decided to make one, here he is:
+<br>
+<br>
+<img height=200 src="https://github.com/user-attachments/assets/7df47caa-658a-4304-aefb-8652ce8eec28">
