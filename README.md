@@ -8,7 +8,7 @@ I like making people smile. I sometimes contribute code to small projects that I
 - ⚙️ I currently maintain [Living-Lemming/Villager-Pickup-Mod](https://github.com/Living-Lemming/Villager-Pickup-Mod) as a side-project.
 - 💸 I have a [Ko-Fi page](https://ko-fi.com/gunnablescum).
 - ⚔️ I play Beat Saber, and have a [BeatLeader page](https://beatleader.com/u/gunnablescum).
-- ⏱️ I moderate speedruns for [Raldi's Crackhouse](https://www.speedrun.com/raldis_crackhouse).
+- ⏱️ I **used to** moderate speedruns for [Raldi's Crackhouse](https://www.speedrun.com/raldis_crackhouse).
 - Every other presence is available on my [Website](https://gunnablescum.live).
 
 ## What I do!
