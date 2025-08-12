@@ -5,7 +5,7 @@ I like making people smile. I sometimes contribute code to small projects that I
 
 ## About Me
 - 🇩🇪 I come from, was born in, and have been living in Germany all my life.
-- 👨‍🎓 I am enrolled in **[Lauingen State Vocational School](https://bs-lauingen.de/) [Staatl. Berufsschule Lauingen] (Summer Break right now, upcoming year: ETA12)**.
+- 👨‍🎓 I am enrolled in **[Lauingen State Vocational School](https://bs-lauingen.de/) [Staatl. Berufsschule Lauingen] (Summer Break, upcoming year: ETA12)**.
 - ⚙️ I currently maintain [Living-Lemming/Villager-Pickup-Mod](https://github.com/Living-Lemming/Villager-Pickup-Mod) as a side-project.
 - 🃏 I made a Balatro Mod with my Friends which I don't work often on anymore, called [Visbility](https://github.com/GunnableScum/Visibility)
 - 💸 I have a [Ko-Fi page](https://ko-fi.com/gunnablescum), if you want to support me.
@@ -16,13 +16,18 @@ I like making people smile. I sometimes contribute code to small projects that I
 ## What I do!
 
 I primarily work with Java and have experience making Spigot Plugins and (some) experience with Fabric modding.
+<br>
 I occasionally do slight work on Unity Projects too, however not much on my own.
+<br>
 I made [Visibility](https://github.com/GunnableScum/Visibility), the Balatro Mod.
+<br>
 If you're my friend, I'm most likely helping you learn Programming or self-hosting stuff.
 
 ## IDE Preference?
 For Java, [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+<br>
 For C#, [JetBrains Rider](https://www.jetbrains.com/rider/).
+<br>
 For literally anything else, use VS Code.
 
 ## My Octocat
