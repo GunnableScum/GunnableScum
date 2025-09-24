@@ -5,7 +5,7 @@ I like making people smile. I sometimes contribute code to small projects that I
 
 ## About Me
 - 🇩🇪 I come from, was born in, and have been living in Germany all my life.
-- 👨‍🎓 I am enrolled in **[Lauingen State Vocational School](https://bs-lauingen.de/) [Staatl. Berufsschule Lauingen] (Summer Break, upcoming year: ETA12)**.
+- 👨‍🎓 I am enrolled in **[Lauingen State Vocational School](https://bs-lauingen.de/) [Staatl. Berufsschule Lauingen] (ETA12)**.
 - ⚙️ I currently maintain [Living-Lemming/Villager-Pickup-Mod](https://github.com/Living-Lemming/Villager-Pickup-Mod) as a side-project.
 - 🃏 I made a Balatro Mod with my Friends which I don't work often on anymore, called [Visbility](https://github.com/GunnableScum/Visibility)
 - 💸 I have a [Ko-Fi page](https://ko-fi.com/gunnablescum), if you want to support me.
