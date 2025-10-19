@@ -15,11 +15,11 @@ I like making people smile. I sometimes contribute code to small projects that I
 - Every other presence is available on my [Website](https://gunnablescum.live).
 
 ## What I do!
-- I primarily work with Java and have experience making Spigot Plugins and modding Minecraft.
+I primarily work with Java and have experience making Spigot Plugins and modding Minecraft.
 <br>
-- I occasionally do work on Unity Projects too, however not much on my own.
+I occasionally do work on Unity Projects too, however not much on my own.
 <br>
-- If you're my friend, I'm most likely helping you learn Programming or self-hosting stuff.
+If you're my friend, I'm most likely helping you learn Programming or self-hosting stuff.
 
 ## IDE Preference?
 For Java, [IntelliJ IDEA](https://www.jetbrains.com/idea/).
