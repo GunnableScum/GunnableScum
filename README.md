@@ -12,7 +12,7 @@ I like making people smile. I sometimes contribute code to small projects that I
 - 💸 I have a [Ko-Fi page](https://ko-fi.com/gunnablescum), if you want to support me.
 - ⚔️ I occasionally play Beat Saber, and have a [BeatLeader page](https://beatleader.com/u/gunnablescum).
 - ⏱️ I **used to** moderate speedruns for [Raldi's Crackhouse](https://www.speedrun.com/raldis_crackhouse).
-- Every other presence is available on my [Website](https://gunnablescum.live).
+- Every other presence is available on my [Website](https://gunnablescum.de).
 
 ## What I do!
 I primarily work with Java and have experience making Spigot Plugins and modding Minecraft.
