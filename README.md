@@ -7,9 +7,9 @@ I like making people smile. I sometimes contribute code to small projects that I
 - 🇩🇪 I come from, was born in, and have been living in Germany all my life.
 - 👨‍🎓 I am enrolled in **[Lauingen State Vocational School](https://bs-lauingen.de/) [Staatl. Berufsschule Lauingen] (ETA12)**.
 - ⚙️ I currently maintain [Living-Lemming/Villager-Pickup-Mod](https://github.com/Living-Lemming/Villager-Pickup-Mod) as a side-project.
-- 🌐 I'm helping develop [reviactyl/panel](https://github.com/reviactyl/panel), which is a Pterodactyl Panel fork.
 - 🃏 I made a Balatro Mod with my Friends, called [Visbility](https://github.com/GunnableScum/Visibility)
 - 👨‍🏫 I worked on a FnaF fangame with some Friends called [My House with VSauce](https://gamejolt.com/games/homesecurity/956553).
+- 🌐 I helped develop [reviactyl/panel](https://github.com/reviactyl/panel) for a while, which is a Pterodactyl Panel fork.
 - 💸 I have a [Ko-Fi page](https://ko-fi.com/gunnablescum), if you want to support me.
 - ⚔️ I occasionally play Beat Saber, and have a [BeatLeader page](https://beatleader.com/u/gunnablescum).
 - ⏱️ I **used to** moderate speedruns for [Raldi's Crackhouse](https://www.speedrun.com/raldis_crackhouse).
